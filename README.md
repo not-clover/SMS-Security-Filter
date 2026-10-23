@@ -19,6 +19,6 @@ This project demonstrates how Natural Language Processing can be used to filter 
 ## Results
 * The model successfully identifies common spam keywords like URGENT, Click now etc. while ignoring safe messages
 
-##Future Scope
+## Future Scope
 *Can be improved with larger datasets
 *Integration with real-time API streams
